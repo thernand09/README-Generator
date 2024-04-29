@@ -36,7 +36,10 @@ THEN I am taken to the corresponding section of the README
 ## Usage
 
 ![GitHub Repo](https://github.com/thernand09/README-Generator)
-Video Link: ![Video Link](https://app.screencastify.com/v3/watch/5kTY0lBI8OObjSasr9Fz)
+![Video Link](https://app.screencastify.com/v3/watch/whoVVGE0RWQMhKkboUk6)
+
+## Video
+
 ![Video](./assets/README%20GENERATOR%20.gif)
 
 
