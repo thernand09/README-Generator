@@ -18,16 +18,55 @@ const questions = [
     },
     {
         type: 'checkbox',
-        name: 'contents',
-        message: '',
-    }
+        name: 'tableOfContents',
+        choices: ['Title', 'Description', 'Installation', 'Usage', 'License', 'Contributors', 'Test','GitHub Username', 'Email Adress'],
+        message: 'Select contents that you would like to add to your table of contents',
+    },
+    {
+        type: 'input',
+        name: 'Installation',
+        message: 'What is a required installation for this application?',
+    },
+    {
+        type: 'input',
+        name: 'Usage',
+        message: 'Provide the usage instructions',
+    },
+    {
+        type: 'list',
+        name: 'License',
+        choices: ['MIT License', 'Apache License 2.0', 'Mozilla Public License 2.0','None'],
+        message: 'Select the type of license',
+    },
+    {
+        type: 'input',
+        name: 'Contributors',
+        message: 'Provide the names of the contributor memebers',
+    },
+    {
+        type: 'input',
+        name: 'Test',
+        message: 'Provide testing instructions',
+    },
+    {
+        type: 'input',
+        name: 'GitHub',
+        message: 'What is your GitHub username?',
+    },
+    {
+        type: 'input',
+        name: 'Email',
+        message: 'What is your email address?',
+    },
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+};
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+}
 
 // Function call to initialize app
 init();
