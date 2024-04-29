@@ -59,8 +59,8 @@ function generateMarkdown(data) {
   * [License](#License)
   * [Contributing Members](#Contributing-Members)
   * [Testing](#Testing)    
-  * [Questions/Inquiries](#Questions/Inquiries)
-
+  * [Emai](#Email)
+  
   ## Description
   ${data.Description}
 

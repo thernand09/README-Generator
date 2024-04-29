@@ -1,3 +1,10 @@
+## Table of Contents
+* [User Story](#user-story)
+* [Acceptance Criteria](#acceptance-criteria)
+* [Usage](#usage)
+* [Try Outs](#try-outs)
+* [Screenshots](#screenshots)
+
 ## User Story
 
 ```md
@@ -25,3 +32,9 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
+
+## Usage
+
+## Try Outs
+
+## Screenshots
