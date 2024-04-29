@@ -36,17 +36,17 @@ const questions = [
         type: 'list',
         name: 'License',
         choices: ['MIT License', 'Apache License 2.0', 'Mozilla Public License 2.0','None'],
-        message: 'Select the type of license',
+        message: 'Select the type of license:',
     },
     {
         type: 'input',
         name: 'Contributors',
-        message: 'Provide the names of the contributor memebers',
+        message: 'Provide the names of the contributor memebers:',
     },
     {
         type: 'input',
         name: 'Test',
-        message: 'Provide testing instructions',
+        message: 'Provide testing instructions:',
     },
     {
         type: 'input',
