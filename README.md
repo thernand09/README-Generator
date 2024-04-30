@@ -35,8 +35,8 @@ THEN I am taken to the corresponding section of the README
 
 ## Usage
 
-![GitHub Repo](https://github.com/thernand09/README-Generator)
-![Video Link](https://1drv.ms/i/c/5ca06fe9d3022510/EWVcBj3vF0NEnjJyDLw6WFYB6bcESEyyXeU975ISIjDxIw?e=dTTzyo)
+GitHub Repo: (https://github.com/thernand09/README-Generator)
+Video Link: (https://1drv.ms/i/c/5ca06fe9d3022510/EWVcBj3vF0NEnjJyDLw6WFYB6bcESEyyXeU975ISIjDxIw?e=dTTzyo)
 
 ## DEMO
 
