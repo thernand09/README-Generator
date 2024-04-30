@@ -38,9 +38,9 @@ THEN I am taken to the corresponding section of the README
 ![GitHub Repo](https://github.com/thernand09/README-Generator)
 ![Video Link]()
 
-## Video
+## DEMO
 
-![Video]()
+![Video](./assets/Animation.gif)
 
 
 ## Try Outs
